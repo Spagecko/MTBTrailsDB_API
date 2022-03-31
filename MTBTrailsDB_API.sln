@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTBTrailsDB_API", "MTBTrailsDB_API\MTBTrailsDB_API.csproj", "{3C502A76-ACD7-4610-9BB4-AF9538734485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C502A76-ACD7-4610-9BB4-AF9538734485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C502A76-ACD7-4610-9BB4-AF9538734485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C502A76-ACD7-4610-9BB4-AF9538734485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C502A76-ACD7-4610-9BB4-AF9538734485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3B12D0-0259-4AEA-8DE7-D8825A5B83E6}
+	EndGlobalSection
+EndGlobal
